@@ -4,7 +4,7 @@
   "description": "use netlify identity with react",
   "author": "sw-yx",
   "license": "MIT",
-  "repository": "https://www.github.com/sw-yx/react-netlify-identity",
+  "repository": "https://github.com/javaarchive/react-17-netlify-identity",
   "main": "dist/index.js",
   "umd:main": "dist/react-netlify-identity.umd.production.js",
   "module": "dist/react-netlify-identity.es.production.js",
