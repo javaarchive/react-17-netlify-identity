@@ -1,6 +1,8 @@
-# SEEKING MAINTAINERS
+# SEEKING MAINTAINERS IN THE ORIGINAL REPO
 
-i've [left Netlify](https://www.swyx.io/writing/farewell-netlify/). obviously i still care about netlify but im gonna have other stuff to do and wont be able to give this my full attention. pls open an issue if you use this and want to take over. post your npm username too. i'd love to find a good home for this project.
+The original author [left Netlify](https://www.swyx.io/writing/farewell-netlify/). Obviously the original author still cares about netlify. If you want to help out which you should please file an issue in the original repo. 
+
+# NOTE: This is identical to the original repo except it's updated to support react 17 in package.json 
 
 ---
 
