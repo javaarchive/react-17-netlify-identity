@@ -1,7 +1,7 @@
 {
   "name": "react-netlify-identity",
   "version": "0.2.5",
-  "description": "use netlify identity with react",
+  "description": "use netlify identity with react 17",
   "author": "sw-yx",
   "license": "MIT",
   "repository": "https://github.com/javaarchive/react-17-netlify-identity",
